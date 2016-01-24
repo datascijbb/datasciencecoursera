@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Data Science Project Work
+Coursera data science project work
